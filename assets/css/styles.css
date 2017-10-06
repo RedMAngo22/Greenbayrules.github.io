@@ -23,6 +23,8 @@
   u {
     text-decoration: none;
     border-bottom: 2px solid black;
+    padding-left: 8px;
+    padding-right: 8px;
   }
 
   #container {
