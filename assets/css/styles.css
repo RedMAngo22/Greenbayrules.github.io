@@ -1,5 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway")
-
+  body {
+    font-family: "Raleway";
+    font-weight: lighter;
+  }
   #start {
     /* Credit to https://uigradients.com/#Instagram for the gradient */
     background: #833ab4;  /* fallback for old browsers */
