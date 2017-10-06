@@ -20,6 +20,10 @@
     position: fixed;
   }
 
+  .underline {
+    text-decoration: underline;
+  }
+
   #container {
     width: 30%;
     height: 60%;
