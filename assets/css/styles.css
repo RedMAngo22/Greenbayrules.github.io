@@ -20,8 +20,9 @@
     position: fixed;
   }
 
-  .underline {
-    text-decoration: underline;
+  u {
+    text-decoration: none;
+    border-bottom: 3px dashed black;
   }
 
   #container {
