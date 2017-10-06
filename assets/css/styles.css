@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,200,400,300,700'");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
   html {
     height: 100%;
   }
@@ -41,5 +42,5 @@
   }
 
   p {
-    font-weight: 200;
+    font-weight: 300;
   }
