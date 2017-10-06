@@ -20,6 +20,14 @@
     position: fixed;
   }
 
+  .social-media-icons {
+    background-color: #323232;
+  }
+
+  .social-media-icons:hover {
+    background-color: #282828;
+  }
+
   u {
     text-decoration: none;
     border-bottom: 2px solid black;
