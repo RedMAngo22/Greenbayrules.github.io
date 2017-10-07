@@ -23,6 +23,15 @@
     transition: all 0.5s ease;
   }
 
+  .fa-google-plus:hover {
+    opacity: 0.7;
+    transition: all 0.5s ease;
+  }
+
+  .fa-google-plus {
+    color: red;
+  }
+
   .fa {
     font-size: 30px;
     width: 50px;
